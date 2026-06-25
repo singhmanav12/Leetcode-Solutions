@@ -6,9 +6,6 @@ class Solution(object):
                 if i!= '#':
                     List.append(i)
                 elif List:
-                    List.pop()
-                
+                    List.pop() 
             return "".join(List)
-            
-            # Process both strings and compare the final results
         return build_final_string(s) == build_final_string(t)
