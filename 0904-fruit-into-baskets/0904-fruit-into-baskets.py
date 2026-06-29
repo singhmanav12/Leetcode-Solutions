@@ -1,10 +1,8 @@
 class Solution(object):
     def totalFruit(self, fruits):
         low = 0
-        res = 1
+        res = 0
         freq = {}
-        if len(fruits) == 0 :
-            return 0
         for high in range(len(fruits)):
             freq[fruits[high]] = freq.get(fruits[high],0) + 1
             while len(freq) > 2 :
