@@ -16,9 +16,9 @@ class Solution(object):
             freq_s2[s2[low]] -= 1
             if freq_s2[s2[low]] == 0 :
                 del freq_s2[s2[low]]
+            low += 1
             if freq_s1 == freq_s2 :
                 return True
-            low += 1
         return False
 
 
