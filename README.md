@@ -100,7 +100,7 @@ This repository serves as my personal coding journal where I document my progres
 
 ## 🤝 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/manavendra-pratap-singh
+- 💼 LinkedIn: https://www.linkedin.com/in/manavendrapratapsingh2006
 - 💻 GitHub: https://github.com/singhmanav12
 
 ---
