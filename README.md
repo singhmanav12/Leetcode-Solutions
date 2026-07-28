@@ -101,6 +101,7 @@ This repository serves as my personal coding journal where I document my progres
 | [0088-merge-sorted-array](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Binary Search
 |  |
 | ------- |
@@ -112,4 +113,12 @@ This repository serves as my personal coding journal where I document my progres
 | [0016-3sum-closest](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0016-3sum-closest) |
 | [0088-merge-sorted-array](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+## Linked List
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Stack
+|  |
+| ------- |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 <!---LeetCode Topics End-->
