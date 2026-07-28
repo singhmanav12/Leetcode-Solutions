@@ -32,32 +32,6 @@ This repository contains my accepted LeetCode solutions implemented in **Python*
 
 ---
 
-## 📚 Topics Covered
-
-- Array
-- String
-- Hash Table
-- Two Pointers
-- Sliding Window
-- Binary Search
-- Stack
-- Queue
-- Linked List
-- Tree
-- Binary Tree
-- Graph
-- Heap / Priority Queue
-- Greedy
-- Dynamic Programming
-- Backtracking
-- Recursion
-- Matrix
-- Prefix Sum
-- Bit Manipulation
-
-*(This list will continue to grow as I solve more problems.)*
-
----
 
 ## 📈 Progress
 
