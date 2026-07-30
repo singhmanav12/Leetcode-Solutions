@@ -91,6 +91,7 @@ This repository serves as my personal coding journal where I document my progres
 | [0026-remove-duplicates-from-sorted-array](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0088-merge-sorted-array](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -106,6 +107,7 @@ This repository serves as my personal coding journal where I document my progres
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0713-subarray-product-less-than-k](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Sorting
 |  |
 | ------- |
@@ -121,4 +123,12 @@ This repository serves as my personal coding journal where I document my progres
 |  |
 | ------- |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
+## Sliding Window
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
+## Prefix Sum
+|  |
+| ------- |
+| [0713-subarray-product-less-than-k](https://github.com/singhmanav12/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 <!---LeetCode Topics End-->
